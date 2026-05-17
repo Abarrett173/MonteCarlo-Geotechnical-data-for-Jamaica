@@ -1,5 +1,5 @@
 Boring_ID,Latitude,Longitude,Parish,Depth_m,SPT_N,USCS,Consistency_Density,Ground_Ele_m,GWT_Depth_m,Unit_Wt_Sat,Cohesion_kPa,Friction_Deg,Moisture_Pct,Fines_Pct
-BH-01,17.9693,-76.7936,Kingston,10,8,CL,Medium Stiff,2.1,1.1,17.8,48,0,31.4,88
+BH-01,17.9693,-76.7936,Kingston,1.5,8,CL,Medium Stiff,2.1,1.1,17.8,48,0,31.4,88
 BH-01,17.9693,-76.7936,Kingston,3,12,SM,Loose (Marine Sand),2.1,1.1,18.5,0,29,24.2,14
 BH-02,18.0145,-76.7989,St. Andrew,1.5,14,CL,Stiff (Liguanea Clay),55.2,4.5,18.9,80,0,22.5,74
 BH-02,18.0145,-76.7989,St. Andrew,3,28,GM,Dense Gravelly Silt,55.2,4.5,20.2,15,32,16.1,35
