@@ -1,5 +1,5 @@
 Boring_ID,Latitude,Longitude,Parish,Depth_m,SPT_N,USCS,Consistency_Density,Ground_Ele_m,GWT_Depth_m,Unit_Wt_Sat,Cohesion_kPa,Friction_Deg,Moisture_Pct,Fines_Pct
-BH-01,17.9693,-76.7936,Kingston,5,8,CL,Medium Stiff,2.1,1.1,17.8,48,0,31.4,88
+BH-01,17.9693,-76.7936,Kingston,2,8,CL,Medium Stiff,2.1,1.1,17.8,48,0,31.4,88
 BH-01,17.9693,-76.7936,Kingston,3,12,SM,Loose (Marine Sand),2.1,1.1,18.5,0,29,24.2,14
 BH-02,18.0145,-76.7989,St. Andrew,1.5,14,CL,Stiff (Liguanea Clay),55.2,4.5,18.9,80,0,22.5,74
 BH-02,18.0145,-76.7989,St. Andrew,3,28,GM,Dense Gravelly Silt,55.2,4.5,20.2,15,32,16.1,35
@@ -27,3 +27,4 @@ BH-13,18.4681,-77.9145,St. James,1.5,10,SM,Medium Dense Marine Sand,5,1.8,18.5,0
 BH-13,18.4681,-77.9145,St. James,3,29,CL,Very Stiff Marine Clay,5,1.8,19.2,110,0,26.4,74
 BH-14,18.4823,-77.6541,Trelawny,1.5,18,CH,Very Stiff Coastal Clay,8,2.2,19,95,0,23.8,80
 BH-14,18.4823,-77.6541,Trelawny,3,99,Rock,Limestone Bedrock Surface,8,2.2,24.5,0,48,1.9,0
+BH-15,18.5,-77.4,,2,20,SW,Dense Sand with Gravel,3.8,1.4,20,0,34,15.3,5
